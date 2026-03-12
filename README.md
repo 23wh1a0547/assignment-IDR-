@@ -25,8 +25,11 @@ The cube form visually reflects data blocks, networks, and layered security, whi
 🎨 Colour Palette
 
 Colour	Meaning
+
 🟧 Orange	Innovation, energy, and technological progress
+
 ⚫ Black	Authority, strength, and professionalism
+
 ⚪ White	Simplicity, clarity, and transparency
 
 This palette creates a clean, modern, and professional technology brand identity.
@@ -216,11 +219,17 @@ JavaScript (Vanilla JS)
 Key Features
 
 ✔ Semantic HTML structure
+
 ✔ Sticky navigation bar
+
 ✔ Smooth scrolling between sections
+
 ✔ Responsive layout (Flexbox/Grid)
+
 ✔ Mobile-friendly design
+
 ✔ Accessible colour contrast
+
 ✔ Hover effects for buttons and navigation links
 
 📱 Responsive Design
